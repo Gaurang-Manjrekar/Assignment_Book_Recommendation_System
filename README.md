@@ -1,4 +1,4 @@
-# Assignment_Book_Recommendation_System
+# Assignment_Association_Rules_2
 
 ## Book-Recommendation-System
 
